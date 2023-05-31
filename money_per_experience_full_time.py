@@ -1,9 +1,9 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-from filtered_data_set import filter_dataset
+from filtered_data_set import filtered_data
 
-filtered_data = filter_dataset()
+filtered_data = filtered_data()
 
 # Define the desired order of experience levels
 experience_order = ['EN', 'MI', 'SE', 'EX']

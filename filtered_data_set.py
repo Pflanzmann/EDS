@@ -33,6 +33,7 @@ def filtered_data():
 
     filtered_data = data[data['job_title'].isin(job_title_percentages[job_title_percentages >= 1].index)]
     filtered_data = filtered_data[filtered_data['employment_type'] == 'FT']
+    filtered_data = filtered_data[filtered_data['company_location'] == 'US']
 
     filtered_data.to_csv('filtered_salaries.csv', index=False)
 
@@ -71,6 +72,7 @@ def filtered_data_with_others():
 
     filtered_data = data[data['job_title'].isin(job_title_percentages[job_title_percentages >= 1].index)]
     filtered_data = filtered_data[filtered_data['employment_type'] == 'FT']
+    filtered_data = filtered_data[filtered_data['company_location'] == 'US']
 
     filtered_data.to_csv('filtered_salaries.csv', index=False)
 

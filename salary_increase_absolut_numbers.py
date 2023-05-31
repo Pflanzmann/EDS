@@ -21,26 +21,18 @@ salary_increase.loc[2020] = 0
 # Sort the salary increase dataframe by index (year)
 salary_increase.sort_index(inplace=True)
 
-# Get the years and job titles
-years = salary_increase.index
-job_titles = salary_increase.columns
-
-# Set the width of each bar
-bar_width = 0.35
-
-# Set the position of each bar on the x-axis
-bar_positions = range(len(years))
-
-# Create the bar chart
-for i, job_title in enumerate(job_titles):
-    plt.bar(0 + (i * bar_width), salary_increase[job_title], bar_width, label=job_title)
+# Plot the salary increase for each job title
+for job_title in salary_increase.columns:
+    plt.plot(salary_increase.index, salary_increase[job_title], label=job_title)
 
 # Set the labels and title
 plt.xlabel('Year')
 plt.ylabel('Salary Increase (USD)')
 plt.title('Salary Increase per Year by Job Title')
-plt.xticks(bar_positions, years)
 plt.legend()
+
+# Set the X-axis ticks to one year intervals
+plt.xticks(range(min(salary_increase.index), max(salary_increase.index)+1, 1))
 
 # Display the chart
 plt.show()
