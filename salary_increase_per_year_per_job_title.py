@@ -2,9 +2,9 @@ import pandas as pd
 import re
 import matplotlib.pyplot as plt
 
-from filtered_data_set import filter_dataset
+from filtered_data_set import filtered_data
 
-filtered_data = filter_dataset()
+filtered_data = filtered_data()
 
 # Calculate the average salary for each year and job title
 avg_salary = filtered_data.groupby(['work_year', 'job_title'])['salary_in_usd'].mean().unstack()
