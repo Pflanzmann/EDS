@@ -8,7 +8,7 @@ from filtered_data_set import filtered_data_with_others
 data = filtered_data_with_others()
 
 # Calculate the experience level percentages
-experience_counts = data['work_year'].value_counts()
+experience_counts = data['experience_level'].value_counts()
 total_jobs = len(data)
 experience_percentages = experience_counts / total_jobs * 100
 
