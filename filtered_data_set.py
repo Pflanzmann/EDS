@@ -3,6 +3,7 @@ import re
 
 def filtered_data():
     # Read the CSV file
+    #data = pd.read_csv('datensatz-Stichprobe.csv')
     data = pd.read_csv('salaries.csv')
 
     # Define a dictionary to map similar job titles to the desired group
@@ -42,6 +43,7 @@ def filtered_data():
 
 def filtered_data_with_others():
     # Read the CSV file
+    #data = pd.read_csv('datensatz-Stichprobe.csv')
     data = pd.read_csv('salaries.csv')
 
     # Define a dictionary to map similar job titles to the desired group
