@@ -11,6 +11,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Data Analyst,100895,USD,100895,US,100,US,M
 2023,SE,FT,Machine Learning Engineer,200000,USD,200000,US,100,US,M
 2023,SE,FT,Machine Learning Engineer,150000,USD,150000,US,100,US,M
+2023,SE,FT,Others,202800,USD,202800,US,0,US,L
+2023,SE,FT,Others,104300,USD,104300,US,0,US,L
 2023,SE,FT,Data Engineer,275300,USD,275300,US,100,US,M
 2023,SE,FT,Data Engineer,183500,USD,183500,US,100,US,M
 2023,SE,FT,Data Scientist,168400,USD,168400,US,0,US,M
@@ -51,8 +53,12 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Machine Learning Engineer,170045,USD,170045,US,0,US,M
 2023,SE,FT,Research Scientist,248100,USD,248100,US,0,US,M
 2023,SE,FT,Research Scientist,145900,USD,145900,US,0,US,M
+2023,SE,FT,Others,225000,USD,225000,US,0,US,M
+2023,SE,FT,Others,156400,USD,156400,US,0,US,M
 2023,EX,FT,Data Engineer,257400,USD,257400,US,100,US,M
 2023,EX,FT,Data Engineer,210600,USD,210600,US,100,US,M
+2023,MI,FT,Others,65000,USD,65000,US,0,US,M
+2023,MI,FT,Others,50000,USD,50000,US,0,US,M
 2023,SE,FT,Data Engineer,293000,USD,293000,US,0,US,M
 2023,SE,FT,Data Engineer,180000,USD,180000,US,0,US,M
 2023,EX,FT,Data Scientist,260000,USD,260000,US,100,US,M
@@ -96,6 +102,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Machine Learning Engineer,172200,USD,172200,US,0,US,M
 2023,SE,FT,Data Engineer,153600,USD,153600,US,0,US,M
 2023,SE,FT,Data Engineer,106800,USD,106800,US,0,US,M
+2023,SE,FT,Others,182850,USD,182850,US,100,US,M
+2023,SE,FT,Others,113000,USD,113000,US,100,US,M
 2023,SE,FT,Data Engineer,150000,USD,150000,US,100,US,M
 2023,SE,FT,Data Engineer,120000,USD,120000,US,100,US,M
 2023,MI,FT,Data Analyst,105000,USD,105000,US,100,US,M
@@ -136,6 +144,10 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Data Scientist,140000,USD,140000,US,100,US,M
 2023,SE,FT,Data Engineer,194000,USD,194000,US,0,US,M
 2023,SE,FT,Data Engineer,161000,USD,161000,US,0,US,M
+2023,SE,FT,Others,225000,USD,225000,US,0,US,M
+2023,SE,FT,Others,156400,USD,156400,US,0,US,M
+2023,SE,FT,Others,210000,USD,210000,US,100,US,M
+2023,SE,FT,Others,160000,USD,160000,US,100,US,M
 2023,SE,FT,Data Analyst,153600,USD,153600,US,100,US,M
 2023,SE,FT,Data Analyst,107500,USD,107500,US,100,US,M
 2023,SE,FT,Data Engineer,185900,USD,185900,US,0,US,M
@@ -150,6 +162,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Data Engineer,155000,USD,155000,US,0,US,M
 2023,EX,FT,Data Engineer,194500,USD,194500,US,0,US,M
 2023,EX,FT,Data Engineer,115500,USD,115500,US,0,US,M
+2023,MI,FT,Others,110000,USD,110000,US,0,US,M
+2023,MI,FT,Others,70000,USD,70000,US,0,US,M
 2023,SE,FT,Machine Learning Engineer,199000,USD,199000,US,100,US,M
 2023,SE,FT,Machine Learning Engineer,145000,USD,145000,US,100,US,M
 2023,SE,FT,Data Scientist,200000,USD,200000,US,100,US,M
@@ -160,6 +174,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Machine Learning Engineer,168000,USD,168000,US,100,US,M
 2023,SE,FT,Data Scientist,200000,USD,200000,US,100,US,M
 2023,SE,FT,Data Scientist,170000,USD,170000,US,100,US,M
+2023,SE,FT,Others,185900,USD,185900,US,0,US,M
+2023,SE,FT,Others,129300,USD,129300,US,0,US,M
 2023,SE,FT,Data Analyst,178600,USD,178600,US,0,US,M
 2023,SE,FT,Data Analyst,142880,USD,142880,US,0,US,M
 2023,SE,FT,Data Scientist,255000,USD,255000,US,0,US,M
@@ -234,6 +250,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,MI,FT,Data Engineer,125000,USD,125000,US,0,US,M
 2023,SE,FT,Data Scientist,285800,USD,285800,US,0,US,M
 2023,SE,FT,Data Scientist,154600,USD,154600,US,0,US,M
+2023,SE,FT,Others,289120,USD,289120,US,0,US,M
+2023,SE,FT,Others,192400,USD,192400,US,0,US,M
 2023,SE,FT,Data Engineer,230000,USD,230000,US,0,US,M
 2023,SE,FT,Data Engineer,166000,USD,166000,US,0,US,M
 2023,MI,FT,Data Architect,258000,USD,258000,US,100,US,L
@@ -265,6 +283,10 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Data Scientist,160000,USD,160000,US,100,US,M
 2023,SE,FT,Data Analyst,275300,USD,275300,US,100,US,M
 2023,SE,FT,Data Analyst,183500,USD,183500,US,100,US,M
+2023,SE,FT,Others,182850,USD,182850,US,100,US,M
+2023,SE,FT,Others,113000,USD,113000,US,100,US,M
+2023,SE,FT,Others,202800,USD,202800,US,0,US,L
+2023,SE,FT,Others,104300,USD,104300,US,0,US,L
 2023,SE,FT,Data Engineer,215000,USD,215000,US,0,US,M
 2023,SE,FT,Data Engineer,175000,USD,175000,US,0,US,M
 2023,MI,FT,Data Engineer,162500,USD,162500,US,0,US,M
@@ -280,6 +302,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Research Engineer,196000,USD,196000,US,0,US,M
 2023,SE,FT,Data Engineer,146000,USD,146000,US,0,US,M
 2023,SE,FT,Data Engineer,94000,USD,94000,US,0,US,M
+2023,EN,FT,Others,69500,USD,69500,US,100,US,M
+2023,EN,FT,Others,46400,USD,46400,US,100,US,M
 2023,SE,FT,Data Engineer,185000,USD,185000,US,100,US,M
 2023,SE,FT,Data Engineer,150000,USD,150000,US,100,US,M
 2023,SE,FT,Data Engineer,145000,USD,145000,US,0,US,M
@@ -322,6 +346,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Data Analyst,110000,USD,110000,US,100,US,M
 2023,SE,FT,Data Analyst,90000,USD,90000,US,100,US,M
 2023,EN,FT,Data Analyst,60000,USD,60000,AR,100,US,M
+2023,SE,FT,Others,168400,USD,168400,US,0,US,M
+2023,SE,FT,Others,90700,USD,90700,US,0,US,M
 2023,SE,FT,Data Analyst,150000,USD,150000,US,100,US,M
 2023,SE,FT,Data Analyst,95000,USD,95000,US,100,US,M
 2023,SE,FT,Data Engineer,161000,USD,161000,US,0,US,M
@@ -355,12 +381,16 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,MI,FT,Data Analyst,140000,USD,140000,US,0,US,M
 2023,SE,FT,Machine Learning Engineer,247500,USD,247500,US,0,US,M
 2023,SE,FT,Machine Learning Engineer,172200,USD,172200,US,0,US,M
+2023,MI,FT,Others,110000,USD,110000,US,0,US,M
+2023,MI,FT,Others,70000,USD,70000,US,0,US,M
 2023,SE,FT,Machine Learning Engineer,230000,USD,230000,US,0,US,M
 2023,SE,FT,Machine Learning Engineer,140100,USD,140100,US,0,US,M
 2023,SE,FT,Machine Learning Engineer,297300,USD,297300,US,100,US,M
 2023,SE,FT,Machine Learning Engineer,198200,USD,198200,US,100,US,M
 2023,MI,FT,Data Engineer,204000,USD,204000,US,100,US,M
 2023,MI,FT,Data Engineer,161500,USD,161500,US,100,US,M
+2023,MI,FT,Others,87500,USD,87500,US,100,US,M
+2023,MI,FT,Others,62500,USD,62500,US,100,US,M
 2023,SE,FT,Data Analyst,160000,USD,160000,US,100,US,M
 2023,SE,FT,Data Analyst,135000,USD,135000,US,100,US,M
 2023,SE,FT,Machine Learning Engineer,216000,USD,216000,US,100,US,M
@@ -449,6 +479,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Data Scientist,120000,USD,120000,US,0,US,M
 2023,SE,FT,Data Analyst,140000,USD,140000,US,0,US,M
 2023,SE,FT,Data Analyst,120000,USD,120000,US,0,US,M
+2023,SE,FT,Others,280000,USD,280000,US,0,US,M
+2023,SE,FT,Others,210000,USD,210000,US,0,US,M
 2023,MI,FT,Data Scientist,170000,USD,170000,US,100,US,M
 2023,MI,FT,Data Scientist,150000,USD,150000,US,100,US,M
 2023,MI,FT,Machine Learning Engineer,200000,USD,200000,US,100,US,M
@@ -468,12 +500,16 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Data Analyst,196000,USD,196000,US,0,US,M
 2023,SE,FT,Data Scientist,214000,USD,214000,US,0,US,M
 2023,SE,FT,Data Scientist,164000,USD,164000,US,0,US,M
+2023,SE,FT,Others,170000,USD,170000,US,100,US,M
+2023,SE,FT,Others,155000,USD,155000,US,100,US,M
 2023,SE,FT,Data Analyst,125000,USD,125000,US,0,US,M
 2023,SE,FT,Data Analyst,98000,USD,98000,US,0,US,M
 2023,SE,FT,Machine Learning Engineer,199000,USD,199000,US,100,US,M
 2023,SE,FT,Machine Learning Engineer,145000,USD,145000,US,100,US,M
 2023,SE,FT,Machine Learning Engineer,260000,USD,260000,US,100,US,M
 2023,SE,FT,Machine Learning Engineer,200000,USD,200000,US,100,US,M
+2023,SE,FT,Others,185900,USD,185900,US,0,US,M
+2023,SE,FT,Others,129300,USD,129300,US,0,US,M
 2023,EX,FT,Data Engineer,200000,USD,200000,US,0,US,M
 2023,EX,FT,Data Engineer,145000,USD,145000,US,0,US,M
 2023,SE,FT,Data Engineer,175000,USD,175000,US,0,US,M
@@ -516,6 +552,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Applied Scientist,136000,USD,136000,US,0,US,L
 2023,MI,FT,Machine Learning Engineer,160000,USD,160000,US,100,US,M
 2023,MI,FT,Machine Learning Engineer,140000,USD,140000,US,100,US,M
+2023,MI,FT,Others,110000,USD,110000,US,0,US,M
+2023,MI,FT,Others,70000,USD,70000,US,0,US,M
 2023,SE,FT,Data Scientist,183924,USD,183924,US,0,US,M
 2023,SE,FT,Data Scientist,125760,USD,125760,US,0,US,M
 2023,SE,FT,Data Analyst,150000,USD,150000,US,100,US,M
@@ -528,14 +566,20 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Data Analyst,100000,USD,100000,US,100,US,M
 2023,EN,FT,Applied Scientist,213660,USD,213660,US,0,US,L
 2023,EN,FT,Applied Scientist,130760,USD,130760,US,0,US,L
+2023,SE,FT,Others,147100,USD,147100,US,0,US,M
+2023,SE,FT,Others,90700,USD,90700,US,0,US,M
 2023,SE,FT,Data Scientist,170000,USD,170000,US,0,US,M
 2023,SE,FT,Data Scientist,150000,USD,150000,US,0,US,M
 2023,MI,FT,Data Analyst,150000,USD,150000,US,100,US,M
 2023,MI,FT,Data Analyst,110000,USD,110000,US,100,US,M
+2023,SE,FT,Others,225000,USD,225000,US,0,US,M
+2023,SE,FT,Others,156400,USD,156400,US,0,US,M
 2023,SE,FT,Machine Learning Engineer,200000,USD,200000,US,0,US,M
 2023,SE,FT,Machine Learning Engineer,130000,USD,130000,US,0,US,M
 2023,SE,FT,Data Engineer,253200,USD,253200,US,0,US,M
 2023,SE,FT,Data Engineer,90700,USD,90700,US,0,US,M
+2023,SE,FT,Others,342810,USD,342810,US,0,US,M
+2023,SE,FT,Others,184590,USD,184590,US,0,US,M
 2023,MI,FT,Data Engineer,162500,USD,162500,US,0,US,M
 2023,MI,FT,Data Engineer,130000,USD,130000,US,0,US,M
 2023,MI,FT,Data Analyst,105380,USD,105380,US,0,US,M
@@ -572,11 +616,15 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Data Engineer,81500,USD,81500,US,0,US,M
 2023,SE,FT,Data Scientist,237000,USD,237000,US,100,US,M
 2023,SE,FT,Data Scientist,201450,USD,201450,US,100,US,M
+2023,SE,FT,Others,280000,USD,280000,US,0,US,M
+2023,SE,FT,Others,210000,USD,210000,US,0,US,M
 2023,SE,FT,Data Architect,280100,USD,280100,US,100,US,M
 2023,SE,FT,Data Architect,168100,USD,168100,US,100,US,M
 2023,SE,FT,Data Engineer,193500,USD,193500,US,100,US,M
 2023,SE,FT,Data Engineer,139000,USD,139000,US,100,US,M
 2023,SE,FT,Machine Learning Engineer,150000,USD,150000,PT,100,US,M
+2023,SE,FT,Others,185900,USD,185900,US,0,US,M
+2023,SE,FT,Others,129300,USD,129300,US,0,US,M
 2023,SE,FT,Data Engineer,225000,USD,225000,US,100,US,M
 2023,SE,FT,Data Engineer,175000,USD,175000,US,100,US,M
 2023,SE,FT,Data Engineer,185000,USD,185000,US,0,US,M
@@ -685,6 +733,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,MI,FT,Data Engineer,130000,USD,130000,US,0,US,M
 2023,SE,FT,Data Engineer,200000,USD,200000,US,100,US,M
 2023,SE,FT,Data Engineer,150000,USD,150000,US,100,US,M
+2023,SE,FT,Others,215000,USD,215000,US,0,US,M
+2023,SE,FT,Others,170000,USD,170000,US,0,US,M
 2023,SE,FT,Machine Learning Engineer,247500,USD,247500,US,0,US,M
 2023,SE,FT,Machine Learning Engineer,172200,USD,172200,US,0,US,M
 2023,SE,FT,Data Analyst,120000,USD,120000,US,100,US,M
@@ -703,6 +753,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Data Analyst,80000,USD,80000,US,0,US,M
 2023,SE,FT,Data Scientist,250000,USD,250000,US,0,US,M
 2023,SE,FT,Data Scientist,162500,USD,162500,US,0,US,M
+2023,MI,FT,Others,200000,USD,200000,US,100,US,M
 2023,SE,FT,Data Engineer,145000,USD,145000,US,0,US,M
 2023,SE,FT,Data Engineer,100000,USD,100000,US,0,US,M
 2023,EX,FT,Data Engineer,145000,USD,145000,US,0,US,M
@@ -827,6 +878,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,MI,FT,Data Analyst,75000,USD,75000,US,0,US,M
 2023,SE,FT,Data Engineer,240000,USD,240000,US,0,US,M
 2023,SE,FT,Data Engineer,183600,USD,183600,US,0,US,M
+2023,MI,FT,Others,130000,USD,130000,US,0,US,M
+2023,MI,FT,Others,80000,USD,80000,US,0,US,M
 2023,SE,FT,Data Engineer,250000,USD,250000,US,0,US,M
 2023,SE,FT,Data Engineer,150000,USD,150000,US,0,US,M
 2023,SE,FT,Data Analyst,160000,USD,160000,US,100,US,M
@@ -1080,6 +1133,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Data Engineer,225000,USD,225000,US,0,US,M
 2023,EX,FT,Data Engineer,194500,USD,194500,US,0,US,M
 2023,EX,FT,Data Engineer,115500,USD,115500,US,0,US,M
+2023,SE,FT,Others,170000,USD,170000,US,100,US,L
 2023,SE,FT,Machine Learning Engineer,90000,USD,90000,US,100,US,L
 2023,EN,FT,Data Analyst,95000,USD,95000,US,100,US,M
 2023,EN,FT,Data Analyst,70000,USD,70000,US,100,US,M
@@ -1134,6 +1188,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Data Scientist,198200,USD,198200,US,100,US,M
 2023,SE,FT,Research Scientist,141288,USD,141288,US,0,US,M
 2023,SE,FT,Research Scientist,94192,USD,94192,US,0,US,M
+2023,SE,FT,Others,184000,USD,184000,US,100,US,M
+2023,SE,FT,Others,143000,USD,143000,US,100,US,M
 2023,SE,FT,Data Analyst,70000,USD,70000,US,0,US,M
 2023,SE,FT,Data Analyst,55000,USD,55000,US,0,US,M
 2023,SE,FT,Data Analyst,275300,USD,275300,US,100,US,M
@@ -1166,12 +1222,15 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Data Engineer,130000,USD,130000,US,100,US,M
 2023,SE,FT,Data Analyst,169000,USD,169000,US,0,US,M
 2023,SE,FT,Data Analyst,110600,USD,110600,US,0,US,M
+2023,SE,FT,Others,193000,USD,193000,US,100,US,M
+2023,SE,FT,Others,136850,USD,136850,US,100,US,M
 2023,SE,FT,Machine Learning Engineer,139500,USD,139500,US,0,US,M
 2023,SE,FT,Machine Learning Engineer,109400,USD,109400,US,0,US,M
 2023,SE,FT,Data Engineer,276000,USD,276000,US,100,US,M
 2023,SE,FT,Data Engineer,178500,USD,178500,US,100,US,M
 2023,SE,FT,Data Engineer,252000,USD,252000,US,0,US,M
 2023,SE,FT,Data Engineer,129000,USD,129000,US,0,US,M
+2022,SE,FT,Others,130000,USD,130000,US,100,US,L
 2021,MI,FT,Data Scientist,150000,USD,150000,US,100,US,M
 2023,SE,FT,Data Engineer,163800,USD,163800,US,0,US,M
 2023,SE,FT,Data Engineer,126000,USD,126000,US,0,US,M
@@ -1354,6 +1413,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Data Analyst,93800,USD,93800,US,100,US,M
 2023,SE,FT,Data Analyst,165000,USD,165000,US,100,US,M
 2023,SE,FT,Data Analyst,112000,USD,112000,US,100,US,M
+2023,EN,FT,Others,220000,USD,220000,US,0,US,M
 2023,SE,FT,Machine Learning Engineer,204500,USD,204500,US,0,US,M
 2023,SE,FT,Machine Learning Engineer,142200,USD,142200,US,0,US,M
 2023,MI,FT,Machine Learning Engineer,200000,USD,200000,US,0,US,M
@@ -1471,8 +1531,12 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Machine Learning Engineer,184700,USD,184700,US,0,US,M
 2023,SE,FT,Machine Learning Engineer,186000,USD,186000,US,100,US,M
 2023,SE,FT,Machine Learning Engineer,153088,USD,153088,US,100,US,M
+2023,MI,FT,Others,190000,USD,190000,US,100,US,M
+2023,MI,FT,Others,160000,USD,160000,US,100,US,M
 2023,SE,FT,Machine Learning Engineer,200000,USD,200000,US,100,US,M
 2023,SE,FT,Machine Learning Engineer,150000,USD,150000,US,100,US,M
+2023,MI,FT,Others,190000,USD,190000,US,0,US,M
+2023,MI,FT,Others,183310,USD,183310,US,0,US,M
 2023,SE,FT,Machine Learning Engineer,240000,USD,240000,US,100,US,M
 2023,SE,FT,Machine Learning Engineer,180000,USD,180000,US,100,US,M
 2023,SE,FT,Machine Learning Engineer,200000,USD,200000,US,100,US,M
@@ -1652,6 +1716,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,EN,FT,Data Scientist,180000,USD,180000,US,100,US,M
 2023,MI,FT,Research Scientist,85000,USD,85000,US,0,US,M
 2023,MI,FT,Research Scientist,70000,USD,70000,US,0,US,M
+2023,SE,FT,Others,135000,USD,135000,US,100,US,M
+2023,SE,FT,Others,100000,USD,100000,US,100,US,M
 2023,EX,FT,Data Analyst,155000,USD,155000,US,0,US,M
 2023,EX,FT,Data Analyst,140000,USD,140000,US,0,US,M
 2023,SE,FT,Machine Learning Engineer,204500,USD,204500,US,0,US,M
@@ -1701,6 +1767,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Applied Scientist,180000,USD,180000,US,0,US,M
 2023,SE,FT,Data Scientist,165000,USD,165000,US,100,US,M
 2023,SE,FT,Data Scientist,144000,USD,144000,US,100,US,M
+2023,EN,FT,Others,160000,USD,160000,US,0,US,M
+2023,EN,FT,Others,100000,USD,100000,US,0,US,M
 2023,EX,FT,Data Engineer,200000,USD,200000,US,0,US,M
 2023,EX,FT,Data Engineer,145000,USD,145000,US,0,US,M
 2023,MI,FT,Data Analyst,150000,USD,150000,US,0,US,M
@@ -1832,10 +1900,13 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,MI,FT,Data Engineer,130000,USD,130000,US,0,US,M
 2023,SE,FT,Data Scientist,225000,USD,225000,US,0,US,M
 2023,SE,FT,Data Scientist,156400,USD,156400,US,0,US,M
+2023,SE,FT,Others,200000,USD,200000,US,100,US,S
 2023,SE,FT,Data Scientist,257000,USD,257000,US,0,US,M
 2023,SE,FT,Data Scientist,134000,USD,134000,US,0,US,M
 2023,SE,FT,Data Engineer,205600,USD,205600,US,0,US,L
 2023,SE,FT,Data Engineer,105700,USD,105700,US,0,US,L
+2023,SE,FT,Others,140000,USD,140000,US,100,US,M
+2023,SE,FT,Others,110000,USD,110000,US,100,US,M
 2023,SE,FT,Data Scientist,299500,USD,299500,US,0,US,M
 2023,SE,FT,Data Scientist,245100,USD,245100,US,0,US,M
 2023,SE,FT,Research Scientist,210000,USD,210000,US,0,US,M
@@ -1906,6 +1977,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Data Scientist,150000,USD,150000,US,0,US,M
 2023,SE,FT,Data Engineer,232200,USD,232200,US,100,US,M
 2023,SE,FT,Data Engineer,167200,USD,167200,US,100,US,M
+2023,SE,FT,Others,197000,USD,197000,US,0,US,M
+2023,SE,FT,Others,106000,USD,106000,US,0,US,M
 2023,SE,FT,Research Scientist,180000,USD,180000,US,0,US,M
 2023,SE,FT,Research Scientist,145000,USD,145000,US,0,US,M
 2023,SE,FT,Data Science Manager,225000,USD,225000,US,0,US,M
@@ -1936,6 +2009,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Data Scientist,100000,USD,100000,US,0,US,M
 2023,SE,FT,Research Scientist,150000,USD,150000,US,0,US,M
 2023,SE,FT,Research Scientist,120000,USD,120000,US,0,US,M
+2023,SE,FT,Others,140000,USD,140000,US,100,US,M
+2023,SE,FT,Others,115000,USD,115000,US,100,US,M
 2023,SE,FT,Data Scientist,297300,USD,297300,US,100,US,M
 2023,SE,FT,Data Scientist,198200,USD,198200,US,100,US,M
 2023,SE,FT,Data Scientist,297300,USD,297300,US,100,US,M
@@ -1947,6 +2022,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,MI,FT,Machine Learning Engineer,219000,USD,219000,US,50,US,L
 2023,SE,FT,Applied Scientist,230000,USD,230000,US,100,US,M
 2023,SE,FT,Applied Scientist,196000,USD,196000,US,100,US,M
+2023,SE,FT,Others,140000,USD,140000,US,100,US,M
+2023,SE,FT,Others,110000,USD,110000,US,100,US,M
 2023,MI,FT,Data Analyst,150000,USD,150000,US,0,US,M
 2023,MI,FT,Data Analyst,100000,USD,100000,US,0,US,M
 2023,SE,FT,Data Engineer,160000,USD,160000,US,0,US,M
@@ -1969,10 +2046,14 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Machine Learning Engineer,165750,USD,165750,US,100,US,M
 2023,SE,FT,Data Scientist,135000,USD,135000,US,100,US,M
 2023,SE,FT,Data Scientist,115000,USD,115000,US,100,US,M
+2023,SE,FT,Others,275000,USD,275000,US,0,US,M
+2023,SE,FT,Others,175000,USD,175000,US,0,US,M
 2023,SE,FT,Data Scientist,170000,USD,170000,US,100,US,M
 2023,SE,FT,Data Scientist,140000,USD,140000,US,100,US,M
 2023,SE,FT,Data Engineer,175308,USD,175308,US,0,US,M
 2023,SE,FT,Data Engineer,100706,USD,100706,US,0,US,M
+2023,SE,FT,Others,235000,USD,235000,US,0,US,M
+2023,SE,FT,Others,135000,USD,135000,US,0,US,M
 2023,SE,FT,Data Engineer,310000,USD,310000,US,0,US,M
 2023,SE,FT,Data Engineer,229000,USD,229000,US,0,US,M
 2023,SE,FT,Machine Learning Engineer,289076,USD,289076,US,0,US,M
@@ -2020,6 +2101,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2023,SE,FT,Machine Learning Engineer,142200,USD,142200,US,0,US,M
 2023,SE,FT,Data Analyst,155000,USD,155000,US,100,US,M
 2023,SE,FT,Data Analyst,64000,USD,64000,US,100,US,M
+2023,SE,FT,Others,235000,USD,235000,US,0,US,M
+2023,SE,FT,Others,185000,USD,185000,US,0,US,M
 2023,SE,FT,Data Architect,174500,USD,174500,US,0,US,M
 2023,SE,FT,Data Architect,113000,USD,113000,US,0,US,M
 2023,SE,FT,Applied Scientist,184000,USD,184000,US,100,US,M
@@ -2115,6 +2198,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Data Scientist,155000,USD,155000,US,0,US,M
 2022,SE,FT,Machine Learning Engineer,235000,USD,235000,US,100,US,M
 2022,SE,FT,Machine Learning Engineer,185000,USD,185000,US,100,US,M
+2022,SE,FT,Others,190000,USD,190000,US,100,US,M
+2022,SE,FT,Others,160000,USD,160000,US,100,US,M
 2022,EN,FT,Data Analyst,100000,USD,100000,US,100,US,M
 2022,MI,FT,Data Engineer,130000,USD,130000,US,0,US,M
 2022,MI,FT,Data Engineer,115000,USD,115000,US,0,US,M
@@ -2221,6 +2306,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,MI,FT,Data Engineer,153000,USD,153000,US,100,US,M
 2022,SE,FT,Data Analyst,169000,USD,169000,US,0,US,M
 2022,SE,FT,Data Analyst,110600,USD,110600,US,0,US,M
+2022,SE,FT,Others,140000,USD,140000,US,100,US,M
+2022,SE,FT,Others,120000,USD,120000,US,100,US,M
 2022,MI,FT,Data Analyst,75000,USD,75000,US,100,US,M
 2022,MI,FT,Data Analyst,60000,USD,60000,US,100,US,M
 2022,EN,FT,Data Analyst,50000,USD,50000,US,50,US,L
@@ -2234,6 +2321,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,MI,FT,Data Analyst,65000,USD,65000,US,100,US,M
 2022,SE,FT,Data Engineer,220000,USD,220000,US,100,US,M
 2022,SE,FT,Data Engineer,146000,USD,146000,US,100,US,M
+2022,SE,FT,Others,110000,USD,110000,US,0,US,M
+2022,SE,FT,Others,70000,USD,70000,US,0,US,M
 2022,EN,FT,Data Analyst,50000,USD,50000,US,50,US,L
 2022,SE,FT,Data Engineer,120000,USD,120000,US,0,US,M
 2022,SE,FT,Data Engineer,95000,USD,95000,US,0,US,M
@@ -2309,6 +2398,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Data Engineer,78000,USD,78000,US,0,US,M
 2022,SE,FT,Data Engineer,120000,USD,120000,US,0,US,M
 2022,SE,FT,Data Engineer,95000,USD,95000,US,0,US,M
+2022,SE,FT,Others,110000,USD,110000,US,0,US,M
+2022,SE,FT,Others,70000,USD,70000,US,0,US,M
 2022,SE,FT,Data Scientist,185900,USD,185900,US,0,US,M
 2022,SE,FT,Data Scientist,129300,USD,129300,US,0,US,M
 2022,MI,FT,Data Analyst,150000,USD,150000,US,0,US,M
@@ -2400,6 +2491,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,MI,FT,Data Engineer,90000,USD,90000,US,100,US,M
 2022,SE,FT,Data Engineer,145000,USD,145000,US,0,US,M
 2022,SE,FT,Data Engineer,115000,USD,115000,US,0,US,M
+2022,MI,FT,Others,165000,USD,165000,US,0,US,M
+2022,MI,FT,Others,135000,USD,135000,US,0,US,M
 2022,SE,FT,Data Engineer,168400,USD,168400,US,0,US,M
 2022,SE,FT,Data Engineer,105200,USD,105200,US,0,US,M
 2022,SE,FT,Data Engineer,200000,USD,200000,US,0,US,M
@@ -2649,6 +2742,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,MI,FT,Data Analyst,52500,USD,52500,US,0,US,M
 2022,SE,FT,Data Architect,128000,USD,128000,US,0,US,M
 2022,SE,FT,Data Architect,81500,USD,81500,US,0,US,M
+2022,SE,FT,Others,105000,USD,105000,US,0,US,M
+2022,SE,FT,Others,70000,USD,70000,US,0,US,M
 2022,SE,FT,Data Scientist,175000,USD,175000,US,0,US,M
 2022,SE,FT,Data Scientist,122500,USD,122500,US,0,US,M
 2022,SE,FT,Data Engineer,171000,USD,171000,US,0,US,M
@@ -2785,6 +2880,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,EN,FT,Data Analyst,20000,USD,20000,CR,50,US,M
 2022,SE,FT,Data Engineer,160000,USD,160000,US,100,US,M
 2022,SE,FT,Data Engineer,85000,USD,85000,US,100,US,M
+2022,SE,FT,Others,250000,USD,250000,US,100,US,M
+2022,SE,FT,Others,63000,USD,63000,US,100,US,M
 2022,EX,FT,Data Engineer,187200,USD,187200,US,100,US,M
 2022,EX,FT,Data Engineer,116100,USD,116100,US,100,US,M
 2022,SE,FT,Data Engineer,200000,USD,200000,US,100,US,M
@@ -2795,6 +2892,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Data Scientist,159000,USD,159000,US,0,US,L
 2022,SE,FT,Data Engineer,229998,USD,229998,US,0,US,L
 2022,SE,FT,Data Engineer,154545,USD,154545,US,0,US,L
+2022,EN,FT,Others,50000,USD,50000,US,100,US,M
 2022,SE,FT,Data Scientist,183000,USD,183000,US,100,US,L
 2022,SE,FT,Data Analyst,99750,USD,99750,US,100,US,M
 2022,SE,FT,Data Analyst,68400,USD,68400,US,100,US,M
@@ -2820,6 +2918,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Data Scientist,145300,USD,145300,US,0,US,M
 2022,SE,FT,Machine Learning Engineer,195400,USD,195400,US,100,US,L
 2022,SE,FT,Machine Learning Engineer,131300,USD,131300,US,100,US,L
+2022,EN,FT,Others,105000,USD,105000,CL,100,US,L
 2022,SE,FT,Data Scientist,191475,USD,191475,US,100,US,M
 2022,SE,FT,Data Scientist,141525,USD,141525,US,100,US,M
 2022,SE,FT,Data Scientist,207000,USD,207000,US,100,US,M
@@ -2846,6 +2945,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Data Engineer,130500,USD,130500,US,0,US,M
 2022,SE,FT,Machine Learning Engineer,130000,USD,130000,US,100,US,M
 2022,SE,FT,Machine Learning Engineer,84000,USD,84000,US,100,US,M
+2022,MI,FT,Others,100000,USD,100000,US,100,US,M
+2022,MI,FT,Others,60000,USD,60000,US,100,US,M
 2022,SE,FT,Data Engineer,141300,USD,141300,US,0,US,M
 2022,SE,FT,Data Engineer,102100,USD,102100,US,0,US,M
 2022,MI,FT,Data Analyst,150000,USD,150000,US,100,US,L
@@ -2869,6 +2970,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Data Engineer,105000,USD,105000,US,100,US,M
 2022,SE,FT,Data Analyst,190000,USD,190000,US,100,US,M
 2022,SE,FT,Data Analyst,140000,USD,140000,US,100,US,M
+2022,MI,FT,Others,100000,USD,100000,US,100,US,M
+2022,MI,FT,Others,60000,USD,60000,US,100,US,M
 2022,SE,FT,Data Scientist,180000,USD,180000,US,100,US,L
 2022,SE,FT,Data Scientist,165000,USD,165000,US,100,US,L
 2022,SE,FT,Machine Learning Engineer,108000,USD,108000,US,0,US,L
@@ -2889,8 +2992,12 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Data Engineer,193000,USD,193000,ES,100,US,M
 2022,EN,FT,Data Scientist,93000,USD,93000,US,0,US,M
 2022,EN,FT,Data Scientist,73000,USD,73000,US,0,US,M
+2022,MI,FT,Others,100000,USD,100000,US,100,US,M
+2022,MI,FT,Others,60000,USD,60000,US,100,US,M
 2022,SE,FT,Data Scientist,136994,USD,136994,US,100,US,M
 2022,SE,FT,Data Scientist,101570,USD,101570,US,100,US,M
+2022,SE,FT,Others,250000,USD,250000,US,100,US,M
+2022,SE,FT,Others,63000,USD,63000,US,100,US,M
 2022,MI,FT,Data Science Manager,134000,USD,134000,US,0,US,M
 2022,MI,FT,Data Science Manager,98000,USD,98000,US,0,US,M
 2022,SE,FT,Data Scientist,191475,USD,191475,US,100,US,M
@@ -2946,6 +3053,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,EN,FT,Data Engineer,80000,USD,80000,US,100,US,L
 2022,EX,FT,Machine Learning Engineer,200000,USD,200000,US,100,US,S
 2022,EX,FT,Machine Learning Engineer,180000,USD,180000,US,100,US,S
+2022,EX,FT,Others,200000,USD,200000,US,100,US,S
 2022,SE,FT,Data Scientist,204100,USD,204100,US,0,US,M
 2022,SE,FT,Data Scientist,136100,USD,136100,US,0,US,M
 2022,SE,FT,Data Analyst,250000,USD,250000,US,0,US,M
@@ -2956,6 +3064,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Data Scientist,141525,USD,141525,US,100,US,M
 2022,SE,FT,Data Scientist,191475,USD,191475,US,100,US,M
 2022,SE,FT,Data Scientist,141525,USD,141525,US,100,US,M
+2022,SE,FT,Others,95000,USD,95000,US,100,US,M
+2022,SE,FT,Others,70000,USD,70000,US,100,US,M
 2022,MI,FT,Machine Learning Engineer,75000,USD,75000,BO,100,US,M
 2022,MI,FT,Data Analyst,113000,USD,113000,US,0,US,L
 2022,SE,FT,Data Scientist,170000,USD,170000,US,100,US,M
@@ -2971,6 +3081,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,MI,FT,Research Scientist,145000,USD,145000,US,50,US,L
 2022,SE,FT,Data Engineer,105000,USD,105000,US,0,US,M
 2022,SE,FT,Data Engineer,90000,USD,90000,US,0,US,M
+2022,SE,FT,Others,146200,USD,146200,US,100,US,M
+2022,SE,FT,Others,124270,USD,124270,US,100,US,M
 2022,MI,FT,Data Scientist,225000,USD,225000,US,0,US,M
 2022,MI,FT,Data Scientist,160000,USD,160000,US,0,US,M
 2022,SE,FT,Data Analyst,245000,USD,245000,US,0,US,M
@@ -2995,6 +3107,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,EX,FT,Data Analyst,150000,USD,150000,US,100,US,M
 2022,SE,FT,Data Analyst,216200,USD,216200,US,0,US,M
 2022,SE,FT,Data Analyst,144100,USD,144100,US,0,US,M
+2022,SE,FT,Others,250000,USD,250000,US,0,US,M
+2022,SE,FT,Others,63000,USD,63000,US,0,US,M
 2022,SE,FT,Data Engineer,135000,USD,135000,US,100,US,M
 2022,SE,FT,Data Engineer,85000,USD,85000,US,100,US,M
 2022,SE,FT,Machine Learning Engineer,135000,USD,135000,US,100,US,M
@@ -3078,6 +3192,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Data Engineer,80000,USD,80000,US,0,US,L
 2022,SE,FT,Data Scientist,160000,USD,160000,US,0,US,L
 2022,SE,FT,Data Scientist,100000,USD,100000,US,0,US,L
+2022,SE,FT,Others,221300,USD,221300,US,100,US,L
+2022,SE,FT,Others,148700,USD,148700,US,100,US,L
 2022,SE,FT,Data Scientist,249260,USD,249260,US,0,US,M
 2022,SE,FT,Data Scientist,185400,USD,185400,US,0,US,M
 2022,SE,FT,Data Engineer,170000,USD,170000,US,100,US,M
@@ -3099,6 +3215,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Data Scientist,160000,USD,160000,US,0,US,L
 2022,SE,FT,Data Scientist,119300,USD,119300,US,0,US,L
 2022,SE,FT,Data Analyst,100000,USD,100000,US,100,US,L
+2022,MI,FT,Others,200000,USD,200000,US,100,US,M
 2022,EN,FT,Machine Learning Engineer,180000,USD,180000,US,100,US,L
 2022,MI,FT,Data Scientist,153000,USD,153000,US,100,US,L
 2022,SE,FT,Data Engineer,210000,USD,210000,US,100,US,M
@@ -3120,6 +3237,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,SE,FT,Machine Learning Engineer,160000,USD,160000,US,0,US,M
 2022,SE,FT,Data Scientist,300000,USD,300000,US,100,US,M
 2022,SE,FT,Data Scientist,200000,USD,200000,US,100,US,M
+2022,MI,FT,Others,200000,USD,200000,IN,100,US,L
+2022,MI,FT,Others,120000,USD,120000,US,0,US,M
 2022,SE,FT,Data Analyst,112900,USD,112900,US,100,US,M
 2022,SE,FT,Data Analyst,90320,USD,90320,US,100,US,M
 2022,SE,FT,Data Analyst,145000,USD,145000,US,100,US,M
@@ -3351,6 +3470,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2022,EN,FT,Data Analyst,100000,USD,100000,US,50,US,L
 2021,MI,FT,Data Scientist,82500,USD,82500,US,100,US,S
 2022,EN,FT,Data Engineer,120000,USD,120000,US,100,US,M
+2022,EN,FT,Others,125000,USD,125000,US,0,US,M
 2021,SE,FT,Machine Learning Engineer,120000,USD,120000,US,50,US,S
 2021,EN,FT,Data Analyst,50000,USD,50000,US,100,US,M
 2021,SE,FT,Data Engineer,200000,USD,200000,US,100,US,M
@@ -3390,6 +3510,8 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2020,MI,FT,Data Engineer,106000,USD,106000,US,100,US,L
 2021,MI,FT,Data Analyst,11000000,HUF,36259,HU,50,US,L
 2021,SE,FT,Data Engineer,150000,USD,150000,US,100,US,L
+2021,MI,FT,Others,81000,EUR,95746,DE,100,US,S
+2021,EN,FT,Others,70000,USD,70000,US,100,US,M
 2021,SE,FT,Data Engineer,276000,USD,276000,US,0,US,L
 2020,SE,FT,Data Engineer,188000,USD,188000,US,100,US,L
 2021,SE,FT,Data Engineer,160000,USD,160000,BR,100,US,S
@@ -3454,6 +3576,7 @@ work_year,experience_level,employment_type,job_title,salary,salary_currency,sala
 2020,MI,FT,Data Scientist,138350,USD,138350,US,100,US,M
 2020,MI,FT,Data Engineer,130800,USD,130800,ES,100,US,M
 2021,MI,FT,Machine Learning Engineer,423000,USD,423000,US,50,US,L
+2021,SE,FT,Others,165000,USD,165000,US,100,US,L
 2020,SE,FT,Data Scientist,412000,USD,412000,US,100,US,L
 2021,MI,FT,Data Scientist,151000,USD,151000,US,100,US,L
 2020,EN,FT,Data Scientist,105000,USD,105000,US,100,US,S

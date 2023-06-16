@@ -21,7 +21,7 @@ sorted_job_titles = filtered_job_titles.sort_values(ascending=False)
 percent_labels = [f'{title}' for title, percentage in zip(sorted_job_titles.index, sorted_job_titles)]
 
 # Create the pie chart
-plt.pie(sorted_job_titles, labels=percent_labels, autopct=lambda pct: f'{pct:.1f}%({pct / 100 * total_jobs:.0f})')
+plt.pie(sorted_job_titles, labels=percent_labels, autopct=lambda pct: f'{pct:.1f}%')
 
 # Set the title
 plt.title('Job Title Distribution')

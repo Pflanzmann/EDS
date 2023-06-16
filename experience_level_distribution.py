@@ -19,7 +19,7 @@ sorted_experience_levels = experience_percentages.sort_values(ascending=False)
 percent_labels = [f'{level}' for level, percentage in zip(sorted_experience_levels.index, sorted_experience_levels)]
 
 # Create the pie chart
-plt.pie(sorted_experience_levels, labels=percent_labels, autopct=lambda pct: f'{pct:.1f}%({pct / 100 * total_jobs:.0f})')
+plt.pie(sorted_experience_levels, labels=percent_labels, autopct=lambda pct: f'{pct:.1f}%')
 
 # Set the title
 plt.title('Experience Level Distribution')
