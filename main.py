@@ -4,43 +4,16 @@ import matplotlib.pyplot as plt
 
 from filtered_data_set import filtered_data
 
-filtered_data = filtered_data()
+data = pd.read_csv('datensatz-Stichprobe.csv')
+data2 = pd.read_csv('salaries.with_salaries_only.csv')
 
-# Calculate the average salary for each year and job title
-avg_salary = filtered_data.groupby(['work_year', 'job_title'])['salary_in_usd'].mean().unstack()
+data2 = data2.rename(
+    columns={'work_year': 'work_year', 'experience_level': 'experience_level', 'employment_type': 'employment_type',
+             'job_title': 'job_title', 'salary': 'salary', 'salary_currency': 'salary_currency',
+             'salary_in_usd': 'salary_in_usd', 'employee_residence': 'filename', 'remote_ratio': 'remote_ratio',
+             'company_location': 'company_location', 'company_size': 'company_size'})
 
-# Calculate the salary increase per year for each job title
-salary_increase = avg_salary.diff()
+merged_df = pd.concat([data, data2])
+merged_df = merged_df.reset_index(drop=True)
 
-# Remove the first row (NaN values) as there's no previous year to compare with
-salary_increase = salary_increase.iloc[1:]
-
-# Add the year 2020 as a starting point with 0 salary increase
-salary_increase.loc[2020] = 0
-
-# Sort the salary increase dataframe by index (year)
-salary_increase.sort_index(inplace=True)
-
-# Get the years and job titles
-years = salary_increase.index
-job_titles = salary_increase.columns
-
-# Set the width of each bar
-bar_width = 0.35
-
-# Set the position of each bar on the x-axis
-bar_positions = range(len(years))
-
-# Create the bar chart
-for i, job_title in enumerate(job_titles):
-    plt.bar(0 + (i * bar_width), salary_increase[job_title], bar_width, label=job_title)
-
-# Set the labels and title
-plt.xlabel('Year')
-plt.ylabel('Salary Increase (USD)')
-plt.title('Salary Increase per Year by Job Title')
-plt.xticks(bar_positions, years)
-plt.legend()
-
-# Display the chart
-plt.show()
+merged_df.to_csv('merged_file.csv', index=False)

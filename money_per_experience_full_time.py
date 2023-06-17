@@ -25,10 +25,12 @@ plt.title('Full Time Salaries by Experience Level for Each Year')
 # Add labels for the bars
 for i, column in enumerate(grouped_data.columns):
     for j, value in enumerate(grouped_data[column]):
-        bar_color = ax.patches[j + i * len(grouped_data.columns)].get_facecolor()
-        text_color = 'white' if sum(bar_color[:3]) / 3 < 0.5 else 'black'
-        ax.annotate(f'{value:.0f}', xy=(j, value), xytext=(0, 3), textcoords='offset points',
-                    ha='center', va='bottom', color=bar_color)
+        try:
+            bar_color = ax.patches[j + i * len(grouped_data.columns)].get_facecolor()
+            ax.annotate(f'{value:.0f}', xy=(j, value), xytext=(0, 3), textcoords='offset points',
+                        ha='center', va='bottom', color=bar_color)
+        except:
+            print("An exception occurred")
 
 # Display the graph
 plt.show()

@@ -1,10 +1,32 @@
 import pandas as pd
 import re
 
-def filtered_data():
-    # Read the CSV file
-    #data = pd.read_csv('datensatz-Stichprobe.csv')
+
+def getNonUs():
+    data = pd.read_csv('datensatz-Stichprobe.csv')
+    data2 = pd.read_csv('salaries.with_salaries_only.csv')
+
+    data2 = data2.rename(
+        columns={'work_year': 'work_year', 'experience_level': 'experience_level', 'employment_type': 'employment_type',
+                 'job_title': 'job_title', 'salary': 'salary', 'salary_currency': 'salary_currency',
+                 'salary_in_usd': 'salary_in_usd', 'employee_residence': 'filename', 'remote_ratio': 'remote_ratio',
+                 'company_location': 'company_location', 'company_size': 'company_size'})
+
+    merged_df = pd.concat([data, data2])
+    merged_df = merged_df.reset_index(drop=True)
+
+    merged_df.to_csv('merged_file.csv', index=False)
+
+    return pd.read_csv('merged_file.csv')
+
+
+def getUs():
     data = pd.read_csv('salaries.csv')
+    return data
+
+
+def filtered_data():
+    data = getNonUs()
 
     # Define a dictionary to map similar job titles to the desired group
     title_mapping = {
@@ -26,7 +48,8 @@ def filtered_data():
         r'.*Machine Learning.*': 'Machine Learning Engineer',
     }
 
-    data['job_title'] = data['job_title'].apply(lambda x: next((val for pattern, val in title_mapping.items() if re.match(pattern, x)), x))
+    data['job_title'] = data['job_title'].apply(
+        lambda x: next((val for pattern, val in title_mapping.items() if re.match(pattern, x)), x))
 
     job_title_counts = data['job_title'].value_counts()
     total_jobs = len(data)
@@ -34,7 +57,7 @@ def filtered_data():
 
     filtered_data = data[data['job_title'].isin(job_title_percentages[job_title_percentages >= 1].index)]
     filtered_data = filtered_data[filtered_data['employment_type'] == 'FT']
-    filtered_data = filtered_data[filtered_data['company_location'] == 'US']
+    #filtered_data = filtered_data[filtered_data['company_location'] == 'US']
 
     filtered_data.to_csv('filtered_salaries.csv', index=False)
 
@@ -42,9 +65,7 @@ def filtered_data():
 
 
 def filtered_data_with_others():
-    # Read the CSV file
-    #data = pd.read_csv('datensatz-Stichprobe.csv')
-    data = pd.read_csv('salaries.csv')
+    data = getNonUs()
 
     # Define a dictionary to map similar job titles to the desired group
     title_mapping = {
@@ -66,7 +87,8 @@ def filtered_data_with_others():
         r'.*Machine Learning.*': 'Machine Learning Engineer',
     }
 
-    data['job_title'] = data['job_title'].apply(lambda x: next((val for pattern, val in title_mapping.items() if re.match(pattern, x)), 'Others'))
+    data['job_title'] = data['job_title'].apply(
+        lambda x: next((val for pattern, val in title_mapping.items() if re.match(pattern, x)), 'Others'))
 
     job_title_counts = data['job_title'].value_counts()
     total_jobs = len(data)
@@ -74,7 +96,7 @@ def filtered_data_with_others():
 
     filtered_data = data[data['job_title'].isin(job_title_percentages[job_title_percentages >= 1].index)]
     filtered_data = filtered_data[filtered_data['employment_type'] == 'FT']
-    filtered_data = filtered_data[filtered_data['company_location'] == 'US']
+    #filtered_data = filtered_data[filtered_data['company_location'] == 'US']
 
     filtered_data.to_csv('filtered_salaries.csv', index=False)
 
