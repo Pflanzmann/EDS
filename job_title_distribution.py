@@ -2,30 +2,30 @@ import pandas as pd
 import re
 import matplotlib.pyplot as plt
 
-from filtered_data_set import filtered_data_with_others
 
-# Read the CSV file
-data = filtered_data_with_others()
+def save_job_title_distribution_plot(data, filename):
+    plt.figure()
 
-# Calculate the job title percentages
-job_title_counts = data['job_title'].value_counts()
-total_jobs = len(data)
-job_title_percentages = job_title_counts / total_jobs * 100
+    # Calculate the job title percentages
+    job_title_counts = data['job_title'].value_counts()
+    total_jobs = len(data)
+    job_title_percentages = job_title_counts / total_jobs * 100
 
-filtered_job_titles = job_title_percentages[job_title_percentages >= 1]
+    filtered_job_titles = job_title_percentages[job_title_percentages >= 1]
 
-# Sort job titles by percentage in descending order
-sorted_job_titles = filtered_job_titles.sort_values(ascending=False)
+    # Sort job titles by percentage in descending order
+    sorted_job_titles = filtered_job_titles.sort_values(ascending=False)
 
-# Calculate the percentage labels for the pie chart
-percent_labels = [f'{title}' for title, percentage in zip(sorted_job_titles.index, sorted_job_titles)]
+    # Calculate the percentage labels for the pie chart
+    percent_labels = [f'{title}' for title, percentage in zip(sorted_job_titles.index, sorted_job_titles)]
 
-# Create the pie chart
-plt.pie(sorted_job_titles, labels=percent_labels, autopct=lambda pct: f'{pct:.1f}%')
+    # Create the pie chart
+    plt.pie(sorted_job_titles, labels=percent_labels, autopct=lambda pct: f'{pct:.1f}%')
 
-# Set the title
-plt.title('Job Title Distribution')
+    # Set the title
+    plt.title('ai-jobs.net', fontsize=12)
+    plt.suptitle('Job Title Distribution', fontsize=15,
+                 fontweight='bold')  # Adjust fontsize, fontweight, and y position as needed
 
-# Display the chart
-plt.show()
-
+    # Save the chart as PNG file
+    plt.savefig(filename, dpi=300, bbox_inches='tight')
