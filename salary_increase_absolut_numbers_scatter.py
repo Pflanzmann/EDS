@@ -3,7 +3,7 @@ import re
 import matplotlib.pyplot as plt
 from adjustText import adjust_text
 
-def save_salary_increase_absolut_numbers_scatter_plot(data, filename):
+def save_salary_increase_absolut_numbers_scatter_plot(data, filename, title='ai-jobs.net'):
     plt.figure()
 
     # Calculate the average salary for each year and job title
@@ -36,7 +36,7 @@ def save_salary_increase_absolut_numbers_scatter_plot(data, filename):
     # Set the labels and title
     plt.xlabel('Year', fontsize=14)
     plt.ylabel('Salary Increase (USD)', fontsize=14)
-    plt.title('ai-jobs.net', fontsize=12)
+    plt.title(title, fontsize=12)
     plt.suptitle('Salary Increase per Year by Job Title', fontsize=15, fontweight='bold')  # Adjust fontsize, fontweight, and y position as needed
 
     # Set the X-axis ticks to one year intervals

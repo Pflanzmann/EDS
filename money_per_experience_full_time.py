@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-def money_per_experience_full_time_plot(data, filename):
+def money_per_experience_full_time_plot(data, filename, title='ai-jobs.net'):
     plt.figure()
 
     # Define the desired order of experience levels
@@ -20,7 +20,7 @@ def money_per_experience_full_time_plot(data, filename):
     # Set the labels and title
     plt.xlabel('Year')
     plt.ylabel('Average Salary')
-    plt.title('ai-jobs.net', fontsize=12)
+    plt.title(title, fontsize=12)
     plt.suptitle('Full Time Salaries by Experience Level for Each Year', fontsize=15, fontweight='bold')  # Adjust fontsize, fontweight, and y position as needed
 
     # Add labels for the bars

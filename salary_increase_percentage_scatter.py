@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from adjustText import adjust_text
 
 
-def save_salary_increase_percentage_scatter_plot(data, filename):
+def save_salary_increase_percentage_scatter_plot(data, filename, title='ai-jobs.net'):
     plt.figure()
 
     # Calculate the average salary for each year and job title
@@ -28,7 +28,7 @@ def save_salary_increase_percentage_scatter_plot(data, filename):
     # Set the labels and title
     plt.xlabel('Year', fontsize=14)
     plt.ylabel('Salary Increase Percentage', fontsize=14)
-    plt.title('ai-jobs.net', fontsize=12)
+    plt.title(title, fontsize=12)
     plt.suptitle('Salary Increase Percentage per Year by Job Title', fontsize=15,
                  fontweight='bold')  # Adjust fontsize, fontweight, and y position as needed
 
@@ -43,3 +43,4 @@ def save_salary_increase_percentage_scatter_plot(data, filename):
 
     # Save the chart as PNG file
     plt.savefig(filename, dpi=300, bbox_inches='tight')
+

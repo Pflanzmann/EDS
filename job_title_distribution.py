@@ -3,7 +3,7 @@ import re
 import matplotlib.pyplot as plt
 
 
-def save_job_title_distribution_plot(data, filename):
+def save_job_title_distribution_plot(data, filename, title='ai-jobs.net'):
     plt.figure()
 
     # Calculate the job title percentages
@@ -23,7 +23,7 @@ def save_job_title_distribution_plot(data, filename):
     plt.pie(sorted_job_titles, labels=percent_labels, autopct=lambda pct: f'{pct:.1f}%')
 
     # Set the title
-    plt.title('ai-jobs.net', fontsize=12)
+    plt.title(title, fontsize=12)
     plt.suptitle('Job Title Distribution', fontsize=15,
                  fontweight='bold')  # Adjust fontsize, fontweight, and y position as needed
 
