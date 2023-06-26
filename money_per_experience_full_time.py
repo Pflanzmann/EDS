@@ -1,12 +1,25 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
+from filtered_data_set import us_filtered_data
+
 
 def money_per_experience_full_time_plot(data, filename, title='ai-jobs.net'):
     plt.figure()
 
+    mapping = {
+        "SE": "Senior",
+        "EX": "Executive",
+        "EN": "Entry-level",
+        "MI": "Mid-level"
+    }
+
+    # Map the values in the "experience_level" column to the desired names
+    data['experience_level'] = data['experience_level'].map(mapping)
+
+
     # Define the desired order of experience levels
-    experience_order = ['EN', 'MI', 'SE', 'EX']
+    experience_order = ['Entry-level', 'Mid-level', 'Senior', 'Executive']
 
     # Group the data by year, experience level, and calculate the average salary
     grouped_data = data.groupby(['work_year', 'experience_level'])['salary_in_usd'].mean().unstack()
